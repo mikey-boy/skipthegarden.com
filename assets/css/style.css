@@ -617,6 +617,17 @@ section {
   margin: 0px 5px 0px 5px;
 }
 
+/* Our Video Section
+--------------------------------*/
+
+.video{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 80px;
+    max-width: 1140px;
+
+}
+
 /* Services Section
 --------------------------------*/
 #services {
