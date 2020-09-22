@@ -413,7 +413,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: #f5f8fd url("../img/intro-bg.jpg") center top no-repeat;
+  background:  url("../img/farmtest.png") center top no-repeat;
   background-size: cover;
 }
 
@@ -427,6 +427,7 @@ h1, h2, h3, h4, h5, h6 {
   }
   #hero .intro-img {
     width: 80%;
+      
   }
 }
 
@@ -522,7 +523,7 @@ section {
 /* About Us Section
 --------------------------------*/
 #about {
-  padding: 80px 0;
+  padding: 30px 0;
 }
 
 #about .about-content {
@@ -559,7 +560,7 @@ section {
 
 #about .about-img {
   position: relative;
-  margin: 60px 30px 30px 30px;
+  margin: 0px 30px 30px 30px;
 }
 
 #about .about-img img {
@@ -598,7 +599,7 @@ section {
 --------------------------------*/
 
 #background {
-  padding: 0px 0px 80px 0px;
+  padding: 0px 0px 30px 0px;
 }
 
 #background .icon {
@@ -612,7 +613,7 @@ section {
   border-style: solid;
   border-radius: 50%;
   border-width: 2px;
-}
+}faf
 
 #background p {
   text-align: center;
